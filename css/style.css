@@ -1,0 +1,53 @@
+/* style.css */
+
+body {
+  background-color: #ce72c0; /* Replace with desired background color */
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.table {
+  margin-top: 30px;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.btn-group {
+  margin-bottom: 20px;
+}
+
+.btn-group .btn {
+  margin-right: 10px;
+  border-radius: 20px; /* Make buttons have a capsule shape */
+}
+
+.total-records {
+  margin-top: 20px;
+}
+
+.total-records span {
+  font-weight: bold;
+}
+
+.table-danger {
+  background-color: #f8d7da;
+}
+
+.clickable {
+  cursor: pointer;
+}
